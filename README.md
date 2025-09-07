@@ -41,7 +41,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=maven" height="30" alt="apachemaven logo"  />
 </div>
-###
 
 <h2 align="left">Minhas redes</h2>
 
