@@ -1,12 +1,13 @@
-<h1 align="left">System.out.println("Olá !"); 👋</h1>
+<!-- <h1 align="left">System.out.println("Hello !"); 👋</h1> -->
 
 ###
 
-<p align="left"><br>Transitando da área administrativa do serviço público para o desenvolvimento de software, trago comigo uma sólida base em organização, foco em resultados e resolução de problemas. Sou um desenvolvedor Java com foco no backend, com conhecimento prático em Programação Orientada a Objetos, Spring Boot, Git, GitHub e Docker.<br><br>Estou sempre buscando aprimorar minhas habilidades e contribuir com a comunidade de software. Sinta-se à vontade para explorar meus projetos e entrar em contato."</p>
+<p align="left"><br>I am a Java Developer with a focus on back-end systems.<br/>
+I am constantly seeking to enhance my skills and contribute to the software community. Feel free to explore my projects and get in touch.."</p>
 
 ###
 
-<h2 align="left">Possuo conhecimentos em</h2>
+<h2 align="left">I have knowledge in</h2>
 
 ###
 
@@ -46,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-<h2 align="left">Minhas redes</h2>
+<h2 align="left">My social networks</h2>
 
 ###
 
