@@ -2,12 +2,12 @@
 
 ###
 
-<p align="left"><br>I am a Java Developer with a focus on back-end systems.<br/>
-I am constantly seeking to enhance my skills and contribute to the software community. Feel free to explore my projects and get in touch.."</p>
+<p align="left"><br>Desenvolvedor Java com foco em sistemas back-end.<br/>
+Estou sempre em busca de aprimorar minhas habilidades e contribuir para a comunidade de software. Sinta-se à vontade para explorar meus projetos e entrar em contato."</p>
 
 ###
 
-<h2 align="left">I have knowledge in</h2>
+<h2 align="left">Tenho conhecimento em</h2>
 
 ###
 
@@ -47,7 +47,7 @@ I am constantly seeking to enhance my skills and contribute to the software comm
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-<h2 align="left">My social networks</h2>
+<h2 align="left">Minhas Redes.</h2>
 
 ###
 
