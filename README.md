@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"><br>Desenvolvedor Java com foco em sistemas back-end.<br/>
+<p align="left"><br>Desenvolvedor backend com foco em sistemas em Java.<br/>
 Estou sempre em busca de aprimorar minhas habilidades e contribuir para a comunidade de software. Sinta-se à vontade para explorar meus projetos e entrar em contato."</p>
 
 ###
