@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"><br>esenvolvedor Full Stack no Governo do Estado de São Paulo, especializado na criação de sistemas de alto impacto com Java, Spring Boot e Angular. Experiência em arquitetura de APIs RESTful, containerização com Docker e versionamento ágil via Git. Focado em entregar código limpo, seguro e escalável para o setor público.<br/>
+<p align="left"><br>Desenvolvedor Full Stack no Governo do Estado de São Paulo, especializado na criação de sistemas de alto impacto com Java, Spring Boot e Angular. Experiência em arquitetura de APIs RESTful, containerização com Docker e versionamento ágil via Git. Focado em entregar código limpo, seguro e escalável para o setor público.<br/>
 Estou sempre em busca de aprimorar minhas habilidades e contribuir para a comunidade de software. Sinta-se à vontade para explorar meus projetos e entrar em contato."</p>
 
 ###
